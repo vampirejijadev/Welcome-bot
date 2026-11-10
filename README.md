@@ -1,4 +1,4 @@
-# LiveCord Welcome Bot
+# Zindex Welcome Bot
 
 A professional Discord welcome bot with embed editing, invite tracking, and Mimu-style UI.
 
